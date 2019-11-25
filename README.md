@@ -29,3 +29,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/ECrisostomo/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/ecrisostomo-vbgov.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ECrisostomo/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=12&branchName=master)
